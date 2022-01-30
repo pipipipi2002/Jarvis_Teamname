@@ -15,7 +15,7 @@ from telegram.ext import (
 from telegram import ReplyKeyboardMarkup, Update, ReplyKeyboardRemove
 
 # INSERT TOKEN HERE. will remove my token in 26/7/21
-TOKEN = "1927044960:AAF58humxeEAF2_ajP3SeT5djqn-XyTCHvE"
+TOKEN = ""
 
 # Enable logging
 logging.basicConfig(
